@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-5.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Periods followed by lowercase letter are the result of a letter written by a child containing multiple spelling and grammar mistakes; these are retained for the integrity of the original source from the <a href="https://archive.org/details/anneofisland1920mont">Internet Archive</a>.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
