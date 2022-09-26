@@ -140,7 +140,7 @@
 			</navPoint>
 			<navPoint id="navpoint-23" playOrder="23">
 				<navLabel>
-					<text>XVIII: Miss Josephine Remembers the Anne-girl</text>
+					<text>XVIII: Miss Josephine Remembers the Anne-Girl</text>
 				</navLabel>
 				<content src="text/chapter-18.xhtml"/>
 			</navPoint>
@@ -254,7 +254,7 @@
 			</navPoint>
 			<navPoint id="navpoint-42" playOrder="42">
 				<navLabel>
-					<text>XXXVII: Full-fledged <abbr>B.A.</abbr>’s</text>
+					<text>XXXVII: Full-Fledged <abbr>B.A.</abbr>’s</text>
 				</navLabel>
 				<content src="text/chapter-37.xhtml"/>
 			</navPoint>
